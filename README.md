@@ -11,7 +11,7 @@
 The webpage generates random quotes by famous personalities which can be obviously used for our personal motivation or as a tweet to inspire your community.
 
 
-## Tech Stack 
+## Tech 
 
 - **JavaScript**  
 
