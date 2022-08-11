@@ -5,10 +5,12 @@
 - User is able to load a new quote by clicking the button "New Quote".
 - User is able to tweet the quote by clicking the button "Tweet".
 
-## About:
+## About
 
 The webpage generates random quotes by famous personalities which can be obviously used for our personal motivation or as a tweet to inspire your community.
 
+## Demo
+![image](https://user-images.githubusercontent.com/76217614/184114313-271c2b43-5196-4a3d-81ae-451bcd1db620.png)
 
 ## Live Project
 
