@@ -17,7 +17,7 @@ The webpage generates random quotes by famous personalities which can be obvious
 
 - **Node.js**    
 
-- **Working with API's
+- **Working with API's**
 
 
 
