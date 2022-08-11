@@ -10,7 +10,7 @@
 The webpage generates random quotes by famous personalities which can be obviously used for our personal motivation or as a tweet to inspire your community.
 
 ## Demo
-![image](https://user-images.githubusercontent.com/76217614/184114313-271c2b43-5196-4a3d-81ae-451bcd1db620.png)
+![image](https://user-images.githubusercontent.com/76217614/184114409-b3ef23d4-9152-4589-b6a7-53df34e35e14.png)
 
 ## Live Project
 
