@@ -12,4 +12,4 @@ The webpage generates random quotes by famous personalities which can be obvious
 
 ## Live Project
 
-> Check out the results [here](quote-generator222.netlify.app)
+> Check out the results->  quote-generator222.netlify.app
